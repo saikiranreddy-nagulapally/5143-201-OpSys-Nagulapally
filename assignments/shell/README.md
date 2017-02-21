@@ -42,7 +42,7 @@
 |sort ||sort data|
 |!x||this loads command x from your history so you can run it again|
 
->Group Members
+#Group Members
 >
 | Name     | Email   | Github Username |
 |----------|---------|-----------------|
