@@ -6,7 +6,9 @@
 |----------|---------|-----------
 | ls       |         |list files and dirrectories|
 | mkdir    |         |make a directory     |
-|cd|
+|cd|directroy|change to named directory|
+||~|change to homoe directory|
+|cd||home directory|
 >Group Members
 >
 | Name     | Email   | Github Username |
