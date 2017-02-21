@@ -1,7 +1,6 @@
 #DATE : 2/21/2017
 #TITLE : SHELL PROJECT
-#PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd .., cd ~, cp,ls including -l,-s,-a,-m,-c,
-#  mv, rm,wc and wc -l commands.
+#PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd .., cd ~, cp,ls including -l,-s,-a,-m,-c, mv, rm,wc and wc -l commands.
 
 
 
