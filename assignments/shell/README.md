@@ -5,9 +5,8 @@
 | Command | Flag/Param   | Meaning |
 |----------|---------|-----------
 | ls       |         |list files and dirrectories|
-|
-
-
+| mkdir    |         |make a directory     |
+|cd|
 >Group Members
 >
 | Name     | Email   | Github Username |
