@@ -1,4 +1,6 @@
-#DATE 2/21/2017
+#DATE : 2/21/2017
+#TITLE : SHELL COMMANDS IMPLEMENTAION
+
 >Group Members
 >
 | Name     | Email   | Github Username |
