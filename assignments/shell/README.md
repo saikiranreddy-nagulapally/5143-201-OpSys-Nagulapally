@@ -1,6 +1,4 @@
-#DATE : 2/21/2017
-#TITLE : SHELL PROJECT
-#PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd .., cd ~, cp,ls including -l,-s,-a,-m,-c, mv, rm,wc and wc -l commands.
+#DATE : 2/21/2017 #TITLE : SHELL PROJECT #PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd ..,etc as in the below list #IMPLEMENTED COMMANDS | Command | Flag/Param | Meaning | |----------|---------|----------- | ls | |list files and dirrectories| | mkdir | |make a directory | |cd|directroy|change to named directory| ||~|change to homoe directory| |cd||change to home directory| ||..|change to parent directory| |pwd||display the path of current directory|
 #IMPLEMENTED COMMANDS 
 | Command | Flag/Param   | Meaning |
 |----------|---------|-----------
