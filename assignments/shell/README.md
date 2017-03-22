@@ -1,7 +1,7 @@
-#DATE : 2/21/2017
-#TITLE : SHELL PROJECT
-#PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd ..,etc as in the below list
-#IMPLEMENTED COMMANDS 
+# DATE : 2/21/2017
+# TITLE : SHELL PROJECT
+# PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd ..,etc as in the below list
+# IMPLEMENTED COMMANDS 
 | Command | Flag/Param   | Meaning |
 |----------|---------|-----------
 | ls       |         |list files and dirrectories|
