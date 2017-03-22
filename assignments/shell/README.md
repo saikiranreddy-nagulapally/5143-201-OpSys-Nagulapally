@@ -1,4 +1,3 @@
-
 #IMPLEMENTED COMMANDS 
 | Command | Flag/Param   | Meaning |
 |----------|---------|-----------
