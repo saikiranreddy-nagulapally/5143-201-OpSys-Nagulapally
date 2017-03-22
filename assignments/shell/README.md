@@ -1,6 +1,6 @@
 #                                     DATE : 2/21/2017
 #                                    TITLE : SHELL PROJECT
-###PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd ..,etc as in the below list 
+# PROJECT DESCRIPTION :This program implements shell commands cat,chmod,cd,cd ..,etc as in the below list 
                       Note:code written in python
                       execution command: python driver.py
                       implementation:give the commands one by one after the % sign
