@@ -3,8 +3,10 @@
 
 ## Team Members
 
-* sindhu thandra
-
 * saikiranreddynagulapally
 
 * Thirupathi reddy parshuramgari
+
+* sindhu thandra
+
+
