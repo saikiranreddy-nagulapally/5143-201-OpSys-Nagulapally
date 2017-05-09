@@ -7,6 +7,6 @@
 |----------|---------|-----------------|
 | SAIKIRAN REDDY NAGULAPALLY  | saikiranreddy791@outlook.com| saikiranreddy-nagulapally |
 | THIRUPATHI REDDY PARSHURAMGARI  | thirupathi.idks126@gmail.com | thirupathireddy-parshuramgari |
-| SINDHU THANDRA|
+| SINDHU THANDRA|sindhu.thandra94@gmail.com |Sindhuthandra|
 
 
