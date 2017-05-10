@@ -195,4 +195,3 @@
      * output_b
      * output_c
      * README.md
-	 *
