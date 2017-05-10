@@ -86,6 +86,7 @@
 * Implemented code that handles **'A'** (new job), **'D'** (display status), **'E'** (time quantum expiration) and **'T'** (job termination) events.
 
 * ***Time spent working: Approximately 2.8 days.***
+![Participation Pie chart](http://i63.tinypic.com/2zfqqyr.png)
 
 #### saikiranreddynagulapally
 
