@@ -55,5 +55,83 @@
 
 * ***Time spent working: Approximately  days.***
 
+## File structure of the project
+
+*Note: Our team modified only the file `assignments/scheduling/simulation.py` in the project. Everything else is part of the starter project provided.*
+
+* assignments
+   * cpu_simulation
+     * `simulation.py`
+     * components
+       * \_\_pycache\_\_
+         * accounting.cpython-34.pyc
+         * accounting.cpython-36.pyc
+         * clock.cpython-34.pyc
+         * clock.cpython-36.pyc
+         * cpu.cpython-34.pyc
+         * cpu.cpython-36.pyc
+         * fifo.cpython-34.pyc
+         * fifo.cpython-36.pyc
+         * memory.cpython-34.pyc
+         * memory.cpython-36.pyc
+         * process.cpython-34.pyc
+         * process.cpython-36.pyc
+         * semaphore.cpython-34.pyc
+         * semaphore.cpython-36.pyc
+         * sim_components.cpython-34.pyc
+         * sim_components.cpython-36.pyc
+       * `accounting.py`
+       * accounting.pyc
+       * `clock.py`
+       * clock.pyc
+       * `cpu.py`
+       * cpu.pyc
+       * docs
+         * \_\_init\_\_.html
+         * Accounting.html
+         * Clock.html
+         * Cpu.html
+         * Fcfs.html
+         * Memory.html
+         * MyFuncs.html
+         * Process.html
+         * pycco.css
+         * SimSemaphore.html
+       * `fifo.py`
+       * fifo.pyc
+       * `memory.py`
+       * memory.pyc
+       * `process.py`
+       * process.pyc
+       * README.md
+       * `run_all.py`
+       * `semaphore.py`
+       * semaphore.pyc
+       * `sim_components.py`
+       * sim_components.pyc
+       * temp.out
+     * csv.m.html
+     * docs
+       * conf.html
+       * cpu_sim.html
+       * pycco.css
+       * simulation_flow.png
+       * source
+         * conf.rst
+         * cpu_sim.rst
+         * modules.rst
+       * test_mod.html
+     * input_data
+       * jobs_c.txt
+       * jobs_in_a.txt
+       * jobs_in_b.txt
+       * jobs_in_c.txt
+       * jobs_in_test.txt
+       * jobs_out_a.txt
+       * jobs_out_b.txt
+       * jobs_out_c.txt
+       * processes.txt
+     * README.md
+
 
 
