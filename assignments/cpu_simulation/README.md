@@ -53,6 +53,8 @@
 
 * Modified the code so that output is printed to files, rather than standard output (stdout).
 
+* Created READEME.MD 
+
 * ***Time spent working: Approximately  days.***
 
 ## File structure of the project
