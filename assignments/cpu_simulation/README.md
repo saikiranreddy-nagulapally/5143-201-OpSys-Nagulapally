@@ -191,8 +191,8 @@
        * jobs_out_b.txt
        * jobs_out_c.txt
        * processes.txt
-	 * output_a
-	 * output_b
-	 * output_c
-         * README.md
+     * output_a
+     * output_b
+     * output_c
+     * README.md
 	 *
