@@ -24,7 +24,7 @@
 
 * Implemented code that handles **'A'** (new job), **'D'** (display status), **'E'** (time quantum expiration) and **'T'** (job termination) events.
 
-* ***Time spent working: Approximately  days.***
+* ***Time spent working: Approximately   12 days.***
 #### SAIKIRAN REDDY NAGULAPALLY 
 
 * Continued working on the implementation of the `writeStatus()` method. Added code that displays the current job scheduling and ready queues.
@@ -41,7 +41,7 @@
 
 * Modified time average turnout and job scheduling wait time calculating methods to make sure numbers are formatted properly.
 
-* ***Time spent working: Approximately  days.***
+* ***Time spent working: Approximately  15 days.***
 
 #### SINDHU THANDRA
 
@@ -55,68 +55,10 @@
 
 * Created READEME.MD 
 
-* ***Time spent working: Approximately  days.***
+* ***Time spent working: Approximately  10 days.***
 
-## File structure of the project
-
-*Note: Our team modified only the file `assignments/scheduling/simulation.py` in the project. Everything else is part of the starter project provided.*
-
-# Operating Systems CPU Scheduling Simulation Project
-
-## Team Members
-
-* sindhu thandra
-
-* saikiranreddynagulapally
-
-* Thirupathi reddy parshuramgari
-
-## Contributions of each member
-
-#### Thirupathi reddy parshuramgari
-
-* Set up the project.
-
-* Fixed minor issues (typos, etc.) to get the project to compile.
-
-* Started working on the job and process scheduling code.
-
-* Started implementing code that prints the current status of the simulation (`writeStatus()` method).
-
-* Implemented code that handles **'A'** (new job), **'D'** (display status), **'E'** (time quantum expiration) and **'T'** (job termination) events.
-
-* ***Time spent working: Approximately 2.8 days.***
+## Participation Piechart
 ![Participation Pie chart](http://i63.tinypic.com/2zfqqyr.png)
-
-#### saikiranreddynagulapally
-
-* Continued working on the implementation of the `writeStatus()` method. Added code that displays the current job scheduling and ready queues.
-
-* Added code that displays the I/O and finished queues, and semaphores.
-
-* Added code that computes and prints average turnout and job scheduling wait times (not considering I/O or semaphores).
-
-* Added code that prints the total memory available in the system.
-
-* Implemented code that handles I/O operations (**'I'** and **'C'** events).
-
-* Modified the writeStatus() method to print the current status of the I/O wait queue.
-
-* Modified time average turnout and job scheduling wait time calculating methods to make sure numbers are formatted properly.
-
-* ***Time spent working: Approximately 2.66 days.***
-
-#### sindhu thandra
-
-* Implemented semaphore-related code (acquiring, releasing, queueing, signaling, etc).
-
-* Implemented **'W'** (wait on a semaphore) and **'S'** (signal on a semaphore) events.
-
-* Cleaned up the code (refactored/restructured stuff, wrote additional comments, etc).
-
-* Modified the code so that output is printed to files, rather than standard output (stdout).
-
-* ***Time spent working: Approximately 2.68 days.***
 
 ## File structure of the project
 
